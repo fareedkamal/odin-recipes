@@ -1,2 +1,2 @@
 # odin-recipes
-using my knowledge to build recipe website.
+building recipe website
